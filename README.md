@@ -7,7 +7,7 @@ The following application is an E-Commerce site that uses a built Express Api, a
 ## Installation
 
 In order to get started. You'll first want to run an 'npm I' to get the dependencies for the Postgres, Sequelize, and Dotenv packages. Next, be sure to add your own .env file with fields for DB Name, User, and Password. After that, you'll be ready to create the DB using '\i schema.sql' in the postgres shell, and using 'npm run seed' if you'd like to populate the DB. Finally, after running an 'npm start' in the server.js terminal, you'll be ready to use the application.
-* The following image is a clickable link taking you to a YouTube video, which will showcase the initialization, as well as functionality of the Application :
+* Click on the following image to view a video demonstration of the code :
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ScALTD5EWwo/0.jpg)](https://www.youtube.com/watch?v=ScALTD5EWwo)
   
 ## Usage
